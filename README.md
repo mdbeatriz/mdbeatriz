@@ -1,176 +1,135 @@
-# 👩🏻‍💻 Beatriz Maciel 
+<h2 align="left"> ✨ Olá, seja bem-vindo </h2>
 
-**`Desenvolvedora FullStack`**
+👋🏼 Prazer sou a Beatriz, mas podem me chamar de Bea, Bia ou Bê. Sou uma nordestina paraibana de 29 anos, nascida e criada em João Pessoa, movida por café, energético e boas conversas. 
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+**`👩🏻‍💻 Minha jornada`**
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+- Minha história na tecnologia começou aos 17 anos, quando, por acaso, conheci aquele que se tornaria meu mentor e, até hoje, um grande amigo. Foi ele quem me abriu as portas para o universo da tecnologia e me apresentou ao sistema Protheus — um encontro que mudou completamente o rumo da minha vida profissional. Não poderia deixar de mencioná-lo, porque até hoje sou imensamente grata pela oportunidade que ele me deu. Um gesto que, para ele, pode ter parecido simples, mas para mim foi enorme e mudou tudo. Abriu caminhos que eu jamais havia imaginado trilhar.
 
----
+- A partir dali, mergulhei de vez nesse mundo. Comecei estudando tópicos direcionados, observando diariamente cada técnico ao meu redor, errando, aprendendo e entendendo, pouco a pouco, que a tecnologia não era apenas uma profissão possível — era algo que despertava minha curiosidade, meu foco e minha vontade de ir além. Com o tempo, percebi que cada desafio trazia uma nova oportunidade de evolução, e cada solução entregue reforçava minha certeza de que estava no caminho certo.
 
-### 🤖 Linguagens e Tecnologias
+- Mesmo tendo começado cedo, ainda faltava aquilo que o mercado sempre valorizou — e continua valorizando até hoje: uma certificação que comprovasse oficialmente minhas habilidades técnicas. Concluir meu curso superior representou não apenas uma conquista acadêmica, mas também o maior salto da minha carreira, chegando exatamente no momento em que mais crescia profissionalmente.
+
+- Hoje, sigo construindo essa história com dedicação, gratidão e a mesma vontade de aprender que nasceu lá atrás, aos 17 anos. Atuo como desenvolvedora de software — um lugar onde, mesmo nos meus sonhos mais ousados, eu não imaginava estar — especialmente fazendo parte da TOTVS.
+
+<!--## <h3 align="center"> 🤖 Linguagens e Tecnologias</h3>
+
+  <div style="display: inline_block" align="center"><br> 
+<img align="center" alt="Html" src="https://skillicons.dev/icons?i=html"/>
+<img align="center" alt="Css" src="https://skillicons.dev/icons?i=css"/>
+<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
+<img align="center" alt="ADVPL" src="https://img.shields.io/badge/ADVPL-TOTVS-002776?style=for-the-badge&logo=totvs&logoColor=white" />
+<img align="center" alt="advpl-tlpp" src="https://www.svgrepo.com/show/373420/advpl.svg" width="48" height="48" />
+<img align="center" alt="tlpp" src="https://sempreju.com.br/wp-content/uploads/2021/01/48802478.png" width="48" height="48" />
+<img align="center" alt="angular" src="https://skillicons.dev/icons?i=angular" />
+<img align="center" alt="VsCode" src="https://skillicons.dev/icons?i=vscode" />
+<img align="center" alt="git" src="https://skillicons.dev/icons?i=git" />
+<img align="center" alt="github" src="https://skillicons.dev/icons?i=github" /> 
+<img align="center" alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" />   
+<img align="center" alt="postman" src="https://skillicons.dev/icons?i=postman" />
+<img align="center" alt="tdw" src="https://skillicons.dev/icons?i=visualstudio" />
+<img align="center" alt="azure" src="https://skillicons.dev/icons?i=azure" />
+<img align="center" alt="sqlserver" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" /><br>
+-->
+
+## <h3 align="center"> 🤖 Linguagens e Tecnologias</h3>
 
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
+    align="center" 
+    alt="advpl"
+    title="Advpl-tlpp" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://www.svgrepo.com/show/373420/advpl.svg"
 />
 <img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
+    align="center" 
+    alt="poui" 
+    title="Po-ui"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://sempreju.com.br/wp-content/uploads/2021/01/48802478.png"
 />
 <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    align="center"
+    alt="angular" 
+    title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://skillicons.dev/icons?i=angular"
 />
 <img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    align="center"
+    alt="vscode"
+    title="VsCode" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://skillicons.dev/icons?i=vscode" 
 />
 <img 
-    align="left" 
-    alt="React"
-    title="React" 
+    align="center"
+    alt="git"
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://skillicons.dev/icons?i=git"
 />
 <img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    align="center"
+    alt="github" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://skillicons.dev/icons?i=github"
 />
 <img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    align="center" 
+    alt="nodejs"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://skillicons.dev/icons?i=nodejs"
 />
 <img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    align="center"
+    alt="postman" 
+    title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://skillicons.dev/icons?i=postman"
 />
 <img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
+    align="center"
+    alt="tws" 
+    title="TWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
 />
 <img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
+    align="center"
+    alt="azure" 
+    title="Azure"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
 />
 <img 
-    align="left" 
+    align="center"
+    alt="jira" 
+    title="Jira"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
+/>
+<img 
+    align="center"
     alt="Laravel" 
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
