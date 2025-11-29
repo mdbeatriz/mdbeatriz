@@ -2,6 +2,9 @@
 
 👋🏼 Prazer sou a Beatriz, mas podem me chamar de Bea, Bia ou Bê. Sou uma nordestina paraibana de 29 anos, nascida e criada em João Pessoa, movida por café, energético e boas conversas. 
 
+</br>
+</br>
+
 **`👩🏻‍💻 Minha jornada`**
 
 - Minha história na tecnologia começou aos 17 anos, quando, por acaso, conheci aquele que se tornaria meu mentor e, até hoje, um grande amigo. Foi ele quem me abriu as portas para o universo da tecnologia e me apresentou ao sistema Protheus — um encontro que mudou completamente o rumo da minha vida profissional. Não poderia deixar de mencioná-lo, porque até hoje sou imensamente grata pela oportunidade que ele me deu. Um gesto que, para ele, pode ter parecido simples, mas para mim foi enorme e mudou tudo. Abriu caminhos que eu jamais havia imaginado trilhar.
@@ -10,7 +13,10 @@
 
 - Mesmo tendo começado cedo, ainda faltava aquilo que o mercado sempre valorizou — e continua valorizando até hoje: uma certificação que comprovasse oficialmente minhas habilidades técnicas. Concluir meu curso superior representou não apenas uma conquista acadêmica, mas também o maior salto da minha carreira, chegando exatamente no momento em que mais crescia profissionalmente.
 
-- Hoje, sigo construindo essa história com dedicação, gratidão e a mesma vontade de aprender que nasceu lá atrás, aos 17 anos. Atuo como desenvolvedora de software — um lugar onde, mesmo nos meus sonhos mais ousados, eu não imaginava estar — especialmente fazendo parte da TOTVS.
+- Hoje, sigo construindo essa história com dedicação, gratidão e a mesma vontade de aprender que nasceu lá atrás, aos 17 anos. Atuo como desenvolvedora de software — um lugar onde, mesmo nos meus sonhos mais ousados, eu não imaginava estar — especialmente fazendo parte da TOTVS. 
+
+</br>
+</br>
 
 <!--## <h3 align="center"> 🤖 Linguagens e Tecnologias</h3>
 
@@ -135,3 +141,7 @@
 
 <br/>
 <br/>
+
+**`🏊🏼‍♀️🏃🏻🚴🏻‍♀️ Quem sou eu além do trabalho?`** 
+
+- Amo natação, bike indoor, corrida e musculação — é o meu combo perfeito pra desestressar e me sentir viva. Esses treinos me ensinaram na prática o trio que eu levo pra tudo - disciplina, foco e resiliência. E sim… isso aparece até no meu trabalho.
