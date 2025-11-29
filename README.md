@@ -32,6 +32,8 @@
 <img align="center" alt="sqlserver" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" /><br>
 -->
 
+
+
 **`👩🏻‍💻 Linguagens e tecnologias`**
 
 <img 
