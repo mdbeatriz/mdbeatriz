@@ -13,7 +13,7 @@
 
 - Mesmo tendo começado cedo, ainda faltava aquilo que o mercado sempre valorizou — e continua valorizando até hoje: uma certificação que comprovasse oficialmente minhas habilidades técnicas. Concluir meu curso superior em gestão da tecnologia da informação, representou não apenas uma conquista acadêmica, mas também o maior salto da minha carreira, chegando exatamente no momento em que mais crescia profissionalmente.
 
-- Hoje sigo construindo essa história com dedicação, gratidão e a mesma vontade de aprender que nasceu lá atrás, aos 17 anos. Atuo como Desenvolvedora de Software II na maior empresa de tecnologia do Brasil — um lugar que, nem nos meus sonhos mais ousados, eu imaginava alcançar. E cada dia na TOTVS tem ampliado não só meu conhecimento técnico, mas também minhas soft skills, que evoluem junto comigo.
+- Hoje sigo construindo essa história com dedicação, gratidão e a mesma vontade de aprender que nasceu lá atrás, aos 17 anos. Continuo me desafiando com mais um curso superior em Engenharia de Software, sempre mirando algo maior para o meu futuro e também atuo como Desenvolvedora de Software II na maior empresa de tecnologia do Brasil (um lugar que, nem nos meus sonhos mais ousados, eu imaginava alcançar). E cada dia na TOTVS tem ampliado não só meu conhecimento técnico, mas também minhas soft skills, que evoluem junto comigo.
 
 </br>
 </br>
