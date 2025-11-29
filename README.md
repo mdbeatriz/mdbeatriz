@@ -122,4 +122,4 @@
 
 **`🏊🏼‍♀️🏃🏻🚴🏻‍♀️ Quem sou eu além do trabalho?`** 
 
-- Amo natação, bike indoor, corrida e musculação — é o meu combo perfeito pra desestressar e me sentir viva. Esses treinos me ensinaram na prática o trio que eu levo pra tudo - disciplina, foco e resiliência. E sim… isso aparece até no meu trabalho.
+- Amo natação, bike, corrida e musculação — é o meu combo perfeito pra desestressar e me sentir viva. Esses treinos me ensinaram na prática o trio que eu levo pra tudo - disciplina, foco e resiliência. E sim… isso aparece até no meu trabalho.
