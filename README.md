@@ -5,7 +5,7 @@
 </br>
 </br>
 
-**`👩🏻‍💻 Minha jornada`**
+**`🌎 Minha jornada`**
 
 - Minha história na tecnologia começou aos 17 anos, quando, por acaso, conheci aquele que se tornaria meu mentor e, até hoje, um grande amigo. Foi ele quem me abriu as portas para o universo da tecnologia e me apresentou ao sistema Protheus — um encontro que mudou completamente o rumo da minha vida profissional. Não poderia deixar de mencioná-lo, porque até hoje sou imensamente grata pela oportunidade que ele me deu. Um gesto que, para ele, pode ter parecido simples, mas para mim foi enorme e mudou tudo. Abriu caminhos que eu jamais havia imaginado trilhar.
 
