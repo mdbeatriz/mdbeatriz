@@ -32,7 +32,7 @@
 <img align="center" alt="sqlserver" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" /><br>
 -->
 
-## <h3 align="left"> 🤖 Linguagens e Tecnologias</h3>
+**`👩🏻‍💻 Linguagens e tecnologias`**
 
 <img 
     align="center" 
