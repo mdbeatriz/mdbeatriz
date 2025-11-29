@@ -11,34 +11,12 @@
 
 - A partir dali, mergulhei de vez nesse mundo. Comecei estudando tópicos direcionados, observando diariamente cada técnico ao meu redor, errando, aprendendo e entendendo, pouco a pouco, que a tecnologia não era apenas uma profissão possível — era algo que despertava minha curiosidade, meu foco e minha vontade de ir além. Com o tempo, percebi que cada desafio trazia uma nova oportunidade de evolução, e cada solução entregue reforçava minha certeza de que estava no caminho certo.
 
-- Mesmo tendo começado cedo, ainda faltava aquilo que o mercado sempre valorizou — e continua valorizando até hoje: uma certificação que comprovasse oficialmente minhas habilidades técnicas. Concluir meu curso superior representou não apenas uma conquista acadêmica, mas também o maior salto da minha carreira, chegando exatamente no momento em que mais crescia profissionalmente.
+- Mesmo tendo começado cedo, ainda faltava aquilo que o mercado sempre valorizou — e continua valorizando até hoje: uma certificação que comprovasse oficialmente minhas habilidades técnicas. Concluir meu curso superior em gestão da tecnologia da informação, representou não apenas uma conquista acadêmica, mas também o maior salto da minha carreira, chegando exatamente no momento em que mais crescia profissionalmente.
 
-- Hoje, sigo construindo essa história com dedicação, gratidão e a mesma vontade de aprender que nasceu lá atrás, aos 17 anos. Atuo como desenvolvedora de software — um lugar onde, mesmo nos meus sonhos mais ousados, eu não imaginava estar — especialmente fazendo parte da TOTVS. 
+- Hoje sigo construindo essa história com dedicação, gratidão e a mesma vontade de aprender que nasceu lá atrás, aos 17 anos. Atuo como Desenvolvedora de Software II na maior empresa de tecnologia do Brasil — um lugar que, nem nos meus sonhos mais ousados, eu imaginava alcançar. E cada dia na TOTVS tem ampliado não só meu conhecimento técnico, mas também minhas soft skills, que evoluem junto comigo.
 
 </br>
 </br>
-
-<!--## <h3 align="center"> 🤖 Linguagens e Tecnologias</h3>
-
-  <div style="display: inline_block" align="center"><br> 
-<img align="center" alt="Html" src="https://skillicons.dev/icons?i=html"/>
-<img align="center" alt="Css" src="https://skillicons.dev/icons?i=css"/>
-<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
-<img align="center" alt="ADVPL" src="https://img.shields.io/badge/ADVPL-TOTVS-002776?style=for-the-badge&logo=totvs&logoColor=white" />
-<img align="center" alt="advpl-tlpp" src="https://www.svgrepo.com/show/373420/advpl.svg" width="48" height="48" />
-<img align="center" alt="tlpp" src="https://sempreju.com.br/wp-content/uploads/2021/01/48802478.png" width="48" height="48" />
-<img align="center" alt="angular" src="https://skillicons.dev/icons?i=angular" />
-<img align="center" alt="VsCode" src="https://skillicons.dev/icons?i=vscode" />
-<img align="center" alt="git" src="https://skillicons.dev/icons?i=git" />
-<img align="center" alt="github" src="https://skillicons.dev/icons?i=github" /> 
-<img align="center" alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" />   
-<img align="center" alt="postman" src="https://skillicons.dev/icons?i=postman" />
-<img align="center" alt="tdw" src="https://skillicons.dev/icons?i=visualstudio" />
-<img align="center" alt="azure" src="https://skillicons.dev/icons?i=azure" />
-<img align="center" alt="sqlserver" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" /><br>
--->
-
-
 
 **`👩🏻‍💻 Linguagens e tecnologias`**
 
