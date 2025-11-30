@@ -7,7 +7,7 @@
 
 **`🌎 Minha jornada`**
 
-- Minha história na tecnologia começou aos 17 anos, quando, por acaso, conheci aquele que se tornaria meu mentor e, até hoje, um grande amigo. Foi ele quem me abriu as portas para o universo da tecnologia e me apresentou ao sistema Protheus — um encontro que mudou completamente o rumo da minha vida profissional. Não poderia deixar de mencioná-lo, porque até hoje sou imensamente grata pela oportunidade que ele me deu. Um gesto que, para ele, pode ter parecido simples, mas para mim foi enorme e mudou tudo. Abriu caminhos que eu jamais havia imaginado trilhar.
+- Minha história na tecnologia começou aos 17 anos, quando, por acaso, conheci aquele que se tornaria meu mentor e, até hoje, um grande amigo, Silvano. Foi ele quem abriu minhas primeiras portas, acreditou no meu potencial antes mesmo de eu entender o meu próprio caminho e despertou em mim a curiosidade que me trouxe até aqui. Foi também quem me apresentou ao Protheus — um encontro que mudou completamente o rumo da minha vida profissional. Não poderia deixar de mencioná-lo, porque sou imensamente grata a ele e à sua família. A oportunidade que me deu, talvez simples para ele, foi enorme para mim. Mudou tudo. Abriu caminhos que eu jamais imaginei ter a chance de trilhar.
 
 - A partir dali, mergulhei de vez nesse mundo. Comecei estudando tópicos direcionados, observando diariamente cada técnico ao meu redor, errando, aprendendo e entendendo, pouco a pouco, que a tecnologia não era apenas uma profissão possível — era algo que despertava minha curiosidade, meu foco e minha vontade de ir além. Com o tempo, percebi que cada desafio trazia uma nova oportunidade de evolução, e cada solução entregue reforçava minha certeza de que estava no caminho certo.
 
