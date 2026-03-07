@@ -71,11 +71,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&l
 
 <p align="center">
 
-<a href="LINK_DO_CURRICULO">
+<a href="./files/cv-beatriz-software-developer.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Visualizar%20Currículo-7A3FE0?style=for-the-badge&logo=readthedocs&logoColor=white">
 </a>
 
-<a href="LINK_DO_CURRICULO">
+<a href="./files/cv-beatriz-software-developer.pdf" download>
 <img src="https://img.shields.io/badge/Baixar%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
