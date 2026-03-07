@@ -56,7 +56,7 @@ Atualmente:
 <p align="center">
 <img 
 height="170em" 
-src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=mdbeatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
 />
 
 <img 
@@ -70,15 +70,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&l
 # 📄 Currículo
 
 <p align="center">
+<img 
+height="170em" 
+src="https://github-readme-stats.vercel.app/api?username=mdbeatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
 
-<a href="./files/cv-beatriz-software-developer.pdf" target="_blank">
-<img src="https://img.shields.io/badge/Visualizar%20Currículo-7A3FE0?style=for-the-badge&logo=readthedocs&logoColor=white">
-</a>
-
-<a href="./files/cv-beatriz-software-developer.pdf" download>
-<img src="https://img.shields.io/badge/Baixar%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-</a>
-
+<img 
+height="170em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbeatriz&layout=compact&langs_count=7&theme=tokyonight"
+/>
 </p>
 
 ---
