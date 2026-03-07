@@ -1,125 +1,123 @@
-<h2 align="left"> ✨ Olá, seja bem-vindo </h2>
+<h1 align="center">Olá, eu sou a Bea 👋</h1>
 
-👋🏼 Prazer sou a Beatriz, mas podem me chamar de Bea, Bia ou Bê. Sou uma nordestina paraibana de 29 anos, nascida e criada em João Pessoa, movida por café, energético e boas conversas. 
+<p align="center">
+Desenvolvedora de Software • Engenharia de Software • Apaixonada por tecnologia e esporte
+</p>
 
-</br>
-</br>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=7A3FE0&size=25&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedora+de+Software;ERP+Protheus+%7C+ADVPL+%7C+Angular;Sempre+aprendendo+algo+novo+🚀"/>
+</p>
 
-**`🌎 Minha jornada`**
+---
 
-- Minha história na tecnologia começou aos 17 anos, quando, por acaso, conheci aquele que se tornaria meu mentor e, até hoje, um grande amigo, Silvano. Foi ele quem abriu minhas primeiras portas, acreditou no meu potencial antes mesmo de eu entender o meu próprio caminho e despertou em mim a curiosidade que me trouxe até aqui. Foi também quem me apresentou ao Protheus — um encontro que mudou completamente o rumo da minha vida profissional. Não poderia deixar de mencioná-lo, porque sou imensamente grata a ele e à sua família. A oportunidade que me deu, talvez simples para ele, foi enorme para mim. Mudou tudo. Abriu caminhos que eu jamais imaginei ter a chance de trilhar.
+# ✨ Sobre mim
 
-- A partir dali, mergulhei de vez nesse mundo. Comecei estudando tópicos direcionados, observando diariamente cada técnico ao meu redor, errando, aprendendo e entendendo, pouco a pouco, que a tecnologia não era apenas uma profissão possível — era algo que despertava minha curiosidade, meu foco e minha vontade de ir além. Com o tempo, percebi que cada desafio trazia uma nova oportunidade de evolução, e cada solução entregue reforçava minha certeza de que estava no caminho certo.
+👋 Prazer, sou **Beatriz**, mas pode me chamar de **Bea, Bia ou Bê**.  
+Sou uma nordestina paraibana de **João Pessoa**, movida por **café, energético e boas conversas**.
 
-- Mesmo tendo começado cedo, ainda faltava aquilo que o mercado sempre valorizou — e continua valorizando até hoje: uma certificação que comprovasse oficialmente minhas habilidades técnicas. Concluir meu curso superior em gestão da tecnologia da informação, representou não apenas uma conquista acadêmica, mas também o maior salto da minha carreira, chegando exatamente no momento em que mais crescia profissionalmente.
+Minha jornada na tecnologia começou aos **17 anos**, quando conheci a pessoa que se tornaria meu mentor e me apresentou ao **Protheus** — um encontro que mudou completamente o rumo da minha vida profissional.
 
-- Hoje sigo construindo essa história com dedicação, gratidão e a mesma vontade de aprender que nasceu lá atrás, aos 17 anos. Continuo me desafiando com mais um curso superior em Engenharia de Software, sempre mirando algo maior para o meu futuro e também atuo como Desenvolvedora de Software II na maior empresa de tecnologia do Brasil (um lugar que, nem nos meus sonhos mais ousados, eu imaginava alcançar). E cada dia na TOTVS tem ampliado não só meu conhecimento técnico, mas também minhas soft skills, que evoluem junto comigo.
+Desde então mergulhei profundamente no universo da tecnologia:  
+aprendendo na prática, observando, errando, evoluindo e entendendo que tecnologia não era apenas uma profissão possível — era **o caminho que despertava minha curiosidade e vontade de ir além**.
 
-</br>
-</br>
+Hoje continuo construindo essa história com **dedicação, gratidão e sede de aprendizado constante**.
 
-**`👩🏻‍💻 Linguagens e tecnologias`**
+Atualmente:
 
+💻 Desenvolvedora de Software II  
+🏢 Maior empresa de tecnologia do Brasil  
+🎓 Graduada em Gestão da Tecnologia da Informação  
+🎓 Graduanda em Engenharia de Software  
+
+---
+
+# 👩🏻‍💻 Tecnologias
+
+<p align="center">
+
+<img height="40" src="https://www.svgrepo.com/show/373420/advpl.svg">
+<img height="40" src="https://sempreju.com.br/wp-content/uploads/2021/01/48802478.png">
+<img height="40" src="https://skillicons.dev/icons?i=angular">
+<img height="40" src="https://skillicons.dev/icons?i=nodejs">
+<img height="40" src="https://skillicons.dev/icons?i=git">
+<img height="40" src="https://skillicons.dev/icons?i=github">
+<img height="40" src="https://skillicons.dev/icons?i=vscode">
+<img height="40" src="https://skillicons.dev/icons?i=postman">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+
+</p>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
 <img 
-    align="center" 
-    alt="advpl"
-    title="Advpl-tlpp" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/373420/advpl.svg"
-/>
-<img 
-    align="center" 
-    alt="poui" 
-    title="Po-ui"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://sempreju.com.br/wp-content/uploads/2021/01/48802478.png"
-/>
-<img 
-    align="center"
-    alt="angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=angular"
-/>
-<img 
-    align="center"
-    alt="vscode"
-    title="VsCode" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=vscode" 
-/>
-<img 
-    align="center"
-    alt="git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=git"
-/>
-<img 
-    align="center"
-    alt="github" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=github"
-/>
-<img 
-    align="center" 
-    alt="nodejs"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=nodejs"
-/>
-<img 
-    align="center"
-    alt="postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=postman"
-/>
-<img 
-    align="center"
-    alt="tfs" 
-    title="TFS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
-/>
-<img 
-    align="center"
-    alt="azure" 
-    title="Azure"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-/>
-<img 
-    align="center"
-    alt="jira" 
-    title="Jira"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
-/>
-<img 
-    align="center"
-    alt="sqlserver" 
-    title="SqlServer"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+height="170em" 
+src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
 />
 
-<br/>
-<br/>
+<img 
+height="170em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"
+/>
+</p>
 
-**`🏊🏼‍♀️🏃🏻🚴🏻‍♀️ Quem sou eu além do trabalho?`** 
+---
 
-- Amo natação, bike, corrida e musculação — é o meu combo perfeito pra desestressar e me sentir viva. Esses treinos me ensinaram na prática o trio que eu levo pra tudo - disciplina, foco e resiliência. E sim… isso aparece até no meu trabalho.
+# 📄 Currículo
+
+<p align="center">
+
+<a href="LINK_DO_CURRICULO">
+<img src="https://img.shields.io/badge/Visualizar%20Currículo-7A3FE0?style=for-the-badge&logo=readthedocs&logoColor=white">
+</a>
+
+<a href="LINK_DO_CURRICULO">
+<img src="https://img.shields.io/badge/Baixar%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 🏊🏼‍♀️🏃🏻🚴🏻‍♀️ Além do código
+
+Amo **natação, bike, corrida e musculação**.  
+Esse combo é o que me ajuda a manter equilíbrio, foco e energia.
+
+O esporte me ensinou três coisas que levo para tudo na vida:
+
+⚡ Disciplina  
+🎯 Foco  
+🧠 Resiliência  
+
+E sim… tudo isso aparece no meu trabalho também.
+
+---
+
+# 📬 Contato
+
+<p align="center">
+
+<a href="LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/SEUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Obrigada por visitar meu perfil ✨
+</p>
