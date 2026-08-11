@@ -15,7 +15,7 @@ Desenvolvedora de Software • Engenharia de Software • Apaixonada por tecnolo
 👋 Prazer, sou **Beatriz**, mas pode me chamar de **Bea, Bia ou Bê**.  
 Sou uma nordestina paraibana de **João Pessoa**, movida por **café, energético e boas conversas**.
 
-Minha jornada na tecnologia começou aos **17 anos**, quando conheci a pessoa que se tornaria meu mentor e me apresentou ao **Protheus** — um encontro que mudou completamente o rumo da minha vida profissional.
+Minha jornada na tecnologia começou aos **17 anos**, quando conheci **Silvano**, que se tornaria meu mentor e a pessoa responsável por me apresentar ao **Protheus**. Aquele encontro foi muito mais do que o início de uma experiência profissional: foi o ponto de partida de uma trajetória que transformaria completamente os rumos da minha carreira.
 
 Desde então mergulhei profundamente no universo da tecnologia:  
 aprendendo na prática, observando, errando, evoluindo e entendendo que tecnologia não era apenas uma profissão possível — era **o caminho que despertava minha curiosidade e vontade de ir além**.
