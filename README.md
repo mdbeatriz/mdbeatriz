@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá, eu sou a Bea 👋</h1>
 
 <p align="center">
@@ -24,10 +25,13 @@ Hoje continuo construindo essa história com **dedicação, gratidão e sede de 
 
 Atualmente:
 
-💻 Desenvolvedora de Software II  
-🏢 Maior empresa de tecnologia do Brasil  
-🎓 Graduada em Gestão da Tecnologia da Informação  
-🎓 Graduanda em Engenharia de Software  
+💻 Desenvolvedora de Software II<br>
+🏢 Atualmente trabalhando na maior empresa de tecnologia do Brasil — 
+<a href="https://www.totvs.com/">
+  <img src="./files/assets/totvs.svg" alt="TOTVS" width="70" height="22" align="middle">
+</a><br>
+🎓 Graduada em Gestão da Tecnologia da Informação<br>
+🎓 Graduanda em Engenharia de Software
 
 ---
 
