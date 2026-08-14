@@ -5,10 +5,6 @@
 Desenvolvedora de Software • Engenharia de Software • Apaixonada por tecnologia e esporte
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=7A3FE0&size=25&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedora+de+Software;ERP+Protheus+%7C+ADVPL+%7C+Angular;Sempre+aprendendo+algo+novo+🚀"/>
-</p>
-
 ---
 
 # ✨ Sobre mim
