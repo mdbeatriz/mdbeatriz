@@ -22,7 +22,7 @@ Hoje continuo construindo essa história com **dedicação, gratidão e sede de 
 Atualmente:
 
 💻 Desenvolvedora de Software II<br>
-🏢 Atualmente trabalhando na maior empresa de tecnologia do Brasil — 
+🏢 Trabalhando na maior empresa de tecnologia do Brasil — 
 <a href="https://www.totvs.com/">
   <img src="./files/assets/totvs.svg" alt="TOTVS" width="70" height="22" align="middle">
 </a><br>
